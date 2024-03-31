@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/backend-technology-concept-with-glowing-lines-background_1017-28405.jpg)
+
 <h1 align="center">Hi 👋, I'm Nagaraj Neelam</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
