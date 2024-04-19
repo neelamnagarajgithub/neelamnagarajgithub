@@ -6,7 +6,8 @@
 
 [![LINKEDIN](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagarajneelam/) [![MEDIUM](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nagarajneelam) 
 
-[![GMAIL]((https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](neelamnagaraj99@gmail.com) 
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](neelamnagaraj99@gmail.com) 
+
 
 - 🔭 I’m currently working on **EVault**
 
