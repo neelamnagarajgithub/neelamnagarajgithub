@@ -7,7 +7,7 @@
 [![LINKEDIN](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagarajneelam/)  [![MEDIUM](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nagarajneelam) 
 
 
-- 🔭 I’m currently working on **EVault**
+- 🔭 I’m currently working on **DApps**
 
 - 🌱 I’m currently learning **Web3 Development & Blockchain**
 
