@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nagaraj Neelam</h1>
 <h3 align="center">A passionate Blockchain & Backend developer</h3>
 
-<img align="right" alt="coding" width="450" height=300 src="https://giffiles.alphacoders.com/220/220234.gif">
+<img align="right" alt="coding" width="500" height=300 src="https://giffiles.alphacoders.com/220/220234.gif">
 
 - 🔭 I’m currently working on **DApps**
 
