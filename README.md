@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **DApps**
 
-- 🌱 I’m currently learning **Web3 Development & Blockchain**
+- 🌱 I’m currently doing **Machine learning**
 
 - 💬 Ask me about **Nestjs,Prisma,Postgresql,Docker,Nodejs,MongoDB**
 
