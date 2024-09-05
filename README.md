@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Medivault**
 
-- 🌱 I’m currently doing **Machine learning**
+- 🌱 I’m currently doing **Machine learning  && DSA**
 
 - 💬 Ask me about **Nestjs,Prisma,Postgresql,Docker,Nodejs,MongoDB**
 
