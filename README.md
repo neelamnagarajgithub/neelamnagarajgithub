@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nagaraj Neelam</h1>
-<h3 align="center">A passionate SOftware developer(Especially Backend)</h3>
+<h3 align="center">A passionate Software developer(Especially Backend)</h3>
 
 <img align="right" alt="coding" width="500" height=300 src="https://giffiles.alphacoders.com/220/220234.gif">
 
