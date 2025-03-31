@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software developer(Especially Backend)</h3>
 
 <br>
-<img align="right" alt="coding" width="300" height=300 src="https://giffiles.alphacoders.com/220/220234.gif">
+<img align="right" alt="coding" width="400" height=300 src="https://giffiles.alphacoders.com/220/220234.gif">
 
 
 - 🔭 I’m currently working on **AetherAi(My Personal SAAS)**
