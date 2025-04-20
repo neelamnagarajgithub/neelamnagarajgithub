@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="430" height=300 src="https://giffiles.alphacoders.com/220/220234.gif">
 
 
-- 🔭 I’m currently building Baax**
+- 🔭 I’m currently building **Baax**
 
 - 🌱 I’m currently learning **GenAi,Langchain,Pytorch**
 
