@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nagaraj Neelam</h1>
-<h3 align="center">Backend Developer @ SecureBlink</h3>
+<h3 align="center">Intern @ Virtusa </h3>
 
 <br>
 <img align="right" alt="coding" width="430" height=300 src="https://giffiles.alphacoders.com/220/220234.gif">
