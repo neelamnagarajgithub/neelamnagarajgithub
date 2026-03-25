@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on **AWS**
 
-- 👨‍💻 All of my projects are available at [nagarajneelam.me](https://nagarajneelam.me)
+- 👨‍💻 All of my projects are available at [nagarajneelam.in](https://nagarajneelam.in)
 
 - 📝 I regularly write articles on [medium@nagarajneelam](https://medium.com/@nagarajneelam)
 
