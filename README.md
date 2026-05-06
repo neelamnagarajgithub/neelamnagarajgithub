@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nagaraj Neelam</h1>
-<h3 align="center">Intern @ Virtusa </h3>
+<h3 align="center">Backend Engineer | prev Intern @Virtusa @Secureblink @Vitacure India @nitw </h3>
 
 <br>
 <img align="right" alt="coding" width="430" height=300 src="https://giffiles.alphacoders.com/220/220234.gif">
@@ -23,12 +23,27 @@
 <br>
 
 ## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/nagarajneelam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagarajneelam" height="30" width="40" /></a>
-<a href="https://medium.com/@nagarajneelam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nagarajneelam" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vector_r7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vector_r7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vector_r7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vector_r7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vector_r7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vector_r7" height="30" width="40" /></a>
+
+<p>
+  <a href="https://linkedin.com/in/nagarajneelam" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://medium.com/@nagarajneelam" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/vector_r7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.leetcode.com/vector_r7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://auth.geeksforgeeks.org/user/vector_r7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" />
+  </a>
 </p>
 
 
